@@ -12,7 +12,7 @@ st.title("🏠 Abuja Dual Real Estate AI Portal")
 st.markdown("""
 **<span style="color: red;">RESEARCH TOPIC:</span>**
 """, unsafe_allow_html=True)
-st.write("Abuja Machine Learning House Prediction: A Practical System Using Python, Fixed Scrapped Web Data, Machine Learning, and Streamlit.")
+st.write("Curated Scraped Web Data for Abuja House Price Prediction: A Practical Machine Learning Framework Using Regression Algorithms")
 st.subheader("By: Nkiru Odoh and Dr. Nnaemeka U. Ezeonyi")
 st.write("---")
 
